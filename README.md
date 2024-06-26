@@ -1,11 +1,6 @@
-Простой калькулятор на Java
+JavaCalculator
 
-Меня зовут Максим Шестернем, и я представляю свой первый проект — простой калькулятор, написанный на Java. 
-Этот калькулятор поддерживает базовые арифметические операции:
+My name is Maxim Shesternem, and I present my first project — a simple calculator written in Java. 
+This calculator supports basic arithmetic operations (addition, subtraction, multiplication and division)
 
-- Сложение
-- Вычитание
-- Умножение
-- Деление
-
-Я надеюсь, что он будет полезен и поможет вам в решении математических задач!
+// The calculator accepts input numbers from 1 to 10 (inclusive) and works exclusively with integers 
