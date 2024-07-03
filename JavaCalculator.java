@@ -6,12 +6,10 @@ public class JavaCalculator {
         Scanner scn = new Scanner(System.in);
         // инициализируем объект Scanner, который считывает данные из ввода в консоль
         System.out.println("                   ***JavaCalculator***                   ");
-        // приветствие
         System.out.println("введите свое выражение, которое необходимо посчитать (например 1 + 2):");
         // по запуску программы отобразиться данная инструкция
         String inp = scn.nextLine();
         // метод ждет пока введут данные в консоль, затемс считает их и сохранит в переменную inp
-
         try {
             // обрабатывает исключения
             String res = calc(inp);
