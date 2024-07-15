@@ -38,3 +38,4 @@ public static String calc(String inp) throws Exception {
     return String.valueOf(res);
     }
 }
+//калькулятор работает
